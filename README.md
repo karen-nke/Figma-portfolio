@@ -32,3 +32,6 @@ For the HyPay brand, I extended the design process to their website, aiming to e
 
 
 The Figma file for the HyPay Website is available for exploration [here](https://www.figma.com/file/rLhNWyuEvFEVCYa3eVp8sn/HyPay-Website?type=design&mode=design&t=KPRByA69tpcDiyBh-1). 
+
+Feel free to contact me if the links provided are not accessible via karen.nke0201@gmail.com
+
