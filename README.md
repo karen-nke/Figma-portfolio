@@ -31,7 +31,13 @@ Take a closer look at the Figma prototype for the HyPay Mobile Application [here
 For the HyPay brand, I extended the design process to their website, aiming to establish a cohesive and visually striking online presence. This project allowed me to showcase the brand's identity and services in an engaging and user-friendly manner.
 
 
-The Figma file for the HyPay Website is available for exploration [here](https://www.figma.com/file/rLhNWyuEvFEVCYa3eVp8sn/HyPay-Website?type=design&mode=design&t=KPRByA69tpcDiyBh-1). 
+The Figma file for the HyPay Website is available for exploration [here](https://www.figma.com/file/rLhNWyuEvFEVCYa3eVp8sn/HyPay-Website?type=design&mode=design&t=KPRByA69tpcDiyBh-1).
+
+## Shopee Enhancement Features
+
+![Cover-3](https://github.com/karen-nke/Figma-portfolio/assets/103889430/d6341a9c-46e6-48b8-afd5-4f00d6ec5352)
+
+Redesign Shopee Interface and proposed new enhancement features for Shopee Malaysia such as Product Questions & Answers, Personalized Shopping Profile, Premium Customer Service (New CS Interface).
 
 Feel free to contact me if the links provided are not accessible via karen.nke0201@gmail.com
 
